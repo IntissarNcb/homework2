@@ -1,0 +1,207 @@
+body{
+    background-image: url("image/background_portfolio.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*----------------- header --------------------*/
+.header .img-header{
+    border-radius: 50%;
+    height: auto;
+    width: 100%;
+    max-width: 50px;
+}
+.header h3{
+    color: white;
+    font-size: 20px;
+    letter-spacing: 5px;
+    padding: 10px 20px;
+}
+
+
+/*-------------------- profile--------------*/
+.profile{
+    text-align: center;
+    margin: 150px 0 200px 0;
+    letter-spacing: 5px;
+}
+.profile p{
+    color: #95999c;
+    font-size: 20px;
+}
+.profile h1{
+    font-size: 70px;
+    font-weight: bolder;
+    color: white;
+}
+
+/*----------------- about -------------------*/
+.about .img-about{
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+}
+.about .box{
+    position: relative;
+}
+.about .box .text{
+    position: absolute;
+    top: -60px;
+    left: -30px;
+    font-size: 175px;
+    font-weight: 750 !important;
+    color: rgba(255, 255, 255, 0.05);
+}
+.about .box .muff{
+    color: #95999c;
+    margin: 50px 50px;
+    font-size: 20px;
+}
+.about .box .muff .mb-5, .about .box .muff h5{
+    color: white !important;
+}
+.about .box .muff .about-icons{
+    display: flex;
+}
+.about .box .muff .about-icons li{
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+    padding: 15px 25px;
+    margin: 20px 15px 20px 0;
+    font-size: 25px;
+}
+.about .box .muff a{
+    text-decoration: none;
+}
+
+/*-------------------- services --------------*/
+.services{
+    margin: 150px 0;
+}
+.services .services-title{
+    text-align: center;
+    letter-spacing: 5px;
+}
+.services .services-title p{
+    font-size: 20px;
+    color: #95999c;
+}
+.services .services-title h1{
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 100px;
+}
+.services .services-icons{
+    color: #005cbf;
+    font-size: 40px;
+}
+.services .services-list{
+    color: white !important;
+}
+
+/* ------------------ works ---------------------- */
+.works{
+    margin: 200px 0;
+    color: white;
+}
+.works .works-title{
+    text-align: center;
+    letter-spacing: 5px;
+}
+.works .works-title p{
+    font-size: 20px;
+    color: #95999c !important;
+}
+.works .works-title h1{
+    font-weight: bolder;
+    margin-bottom: 100px;
+}
+.works .row{
+    margin-bottom: 150px;
+}
+.works .row .img-works{
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+}
+.works .row .text{
+    color: white;
+    text-align: left;
+    margin: 100px 0;
+}
+.works .row .text h4{
+    color: #95999c !important;
+    font-weight: lighter;
+}
+.works .row .text p{
+    font-size: 20px;
+    color: #95999c !important;
+}
+.works .row .text a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+/* ------------------ achievements ---------------------- */
+.achievements{
+    margin: 200px 0;
+}
+.achievements .achievements-title{
+    text-align: center;
+    letter-spacing: 5px;
+}
+.achievements .achievements-title p{
+    font-size: 20px;
+    color: #95999c;
+}
+.achievements .achievements-title h1{
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 100px;
+}
+.achievements .row{
+    text-align: center;
+}
+.achievements .row h5{
+    color: #95999c;
+    font-weight: lighter; !important;
+}
+.achievements .row span{
+    color: #005cbf !important;
+    font-size: 150px;
+}
+.achievements .row .project{
+    margin-top: 200px;
+}
+.achievements .row .coffee{
+    margin-top: 400px;
+}
+
+
+/*--------------- footer ------------------*/
+.footer{
+    text-align: center;
+}
+.footer .footer-icons li{
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+    padding: 15px 25px;
+    margin: 0 15px 50px 15px;
+    font-size: 25px;
+}
+.footer a{
+    text-decoration: none !important;
+    color: #95999c;
+}
+.footer a:hover{
+    color: white;
+}
+.footer .copyright{
+    color: #95999c;
+    margin: 100px 0 50px 0;
+}
+
+

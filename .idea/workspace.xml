@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6d157e-85cf-4f8d-b702-d24ab6de2d7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20EnkYaD3XAKS6BwiNbsbQq7APv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6d157e-85cf-4f8d-b702-d24ab6de2d7a" name="Default Changelist" comment="" />
+      <created>1635618758101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635618758101</updated>
+      <workItem from="1635618759210" duration="1289000" />
+      <workItem from="1635882913546" duration="3624000" />
+      <workItem from="1636123528362" duration="2442000" />
+      <workItem from="1636463098639" duration="3802000" />
+      <workItem from="1636531783848" duration="31757000" />
+      <workItem from="1637658516914" duration="24850000" />
+      <workItem from="1637747440662" duration="16626000" />
+      <workItem from="1637939923755" duration="12360000" />
+      <workItem from="1638091767845" duration="9000" />
+      <workItem from="1638092649549" duration="1420000" />
+      <workItem from="1638094962956" duration="656000" />
+      <workItem from="1638262653336" duration="1394000" />
+      <workItem from="1638541858970" duration="5415000" />
+      <workItem from="1638695319230" duration="7277000" />
+      <workItem from="1639045260150" duration="1206000" />
+      <workItem from="1639148638098" duration="1081000" />
+      <workItem from="1639311805335" duration="45388000" />
+      <workItem from="1639771411538" duration="93000" />
+      <workItem from="1639771518137" duration="13000" />
+      <workItem from="1640077840402" duration="2007000" />
+      <workItem from="1640512316160" duration="27506000" />
+      <workItem from="1640695876189" duration="239000" />
+      <workItem from="1640771022407" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636463953173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1636463953173" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1640517032645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1640517032645" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1639761925368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1639761925368" />
+  </component>
+</project>
